@@ -38,6 +38,22 @@ Trophy names, descriptions and grades are the official PlayStation 5 list as
 published on PSN, via Exophase and PSNProfiles (checked 20 Nov 2026). No
 Rockstar logo or official artwork is used.
 
+## How to use the tracker
+
+Tick a trophy off in the checklist and it stays ticked — progress is saved in
+your browser (localStorage, key `gta6-trophy-guide-v1`) and never leaves your
+machine. You can also add a short note to any trophy from its detail pane.
+
+- **Export progress** downloads your earned trophies, notes and spoiler
+  setting as `gta6-trophy-progress.json`.
+- **Import progress** reads such a file back in, so you can move your progress
+  to another browser or restore it after clearing site data.
+- **Reset all** clears every earned trophy and note (it asks first — it cannot
+  be undone) and turns the spoiler setting back on.
+- **Hide story spoilers** (on by default) keeps the names and descriptions of
+  unearned story trophies hidden until you earn them; uncheck it at the top of
+  the page to see everything.
+
 ## Run it
 
 ```sh
