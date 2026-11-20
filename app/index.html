@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI: all 55 trophies, roadmap &amp; tracker</title>
+<meta name="description" content="An offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5: a guide to each, a roadmap to the platinum, missable flags, filters and saved progress.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-title">
+    <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; Unofficial fan guide</p>
+    <h1>Leonida Trophy Guide</h1>
+    <p class="subtitle">All 55 trophies — 1 platinum, 2 gold, 6 silver, 46 bronze — with a guide to each, a roadmap to the platinum, and a checklist that saves in your browser. Works fully offline.</p>
+  </div>
+  <div class="progress-card" id="progress-card">
+    <p class="progress-big"><span id="progress-earned">0</span><span class="progress-of"> / 55 earned</span></p>
+    <div class="progress-track"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
+    <p class="progress-sub" id="progress-sub">Platinum 0/1 &middot; Gold 0/2 &middot; Silver 0/6 &middot; Bronze 0/46</p>
+    <p class="progress-sub" id="progress-next">Next up: finish the story.</p>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Guide sections">
+  <a href="#/checklist" data-route="checklist">Checklist</a>
+  <a href="#/roadmap" data-route="roadmap">Roadmap to Platinum</a>
+  <a href="#/missables" data-route="missables">Missables</a>
+  <a href="#/next" data-route="next">Next Up</a>
+  <a href="#/about" data-route="about">Sources &amp; About</a>
+</nav>
+
+<div class="toolbar" id="toolbar">
+  <label class="search">Search
+    <input id="q" type="search" placeholder="Trophy, mission or keyword…" autocomplete="off">
+  </label>
+  <label>Grade
+    <select id="f-grade">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label>Kind
+    <select id="f-kind">
+      <option value="all">All kinds</option>
+      <option value="story">Story</option>
+      <option value="stranger">Strangers &amp; side missions</option>
+      <option value="activity">Activities</option>
+      <option value="collectible">Collectibles</option>
+      <option value="exploration">Exploration</option>
+      <option value="crime">Crime &amp; robberies</option>
+      <option value="money">Money &amp; property</option>
+      <option value="completion">Completion</option>
+    </select>
+  </label>
+  <label>Difficulty
+    <select id="f-diff">
+      <option value="all">Any difficulty</option>
+      <option value="1">1 — trivial</option>
+      <option value="2">2 — easy</option>
+      <option value="3">3 — moderate</option>
+      <option value="4">4 — hard</option>
+      <option value="5">5 — the long grind</option>
+    </select>
+  </label>
+  <label class="check"><input id="f-missable" type="checkbox"> Missable only</label>
+  <label class="check"><input id="f-unconfirmed" type="checkbox"> Unconfirmed only</label>
+  <label>Status
+    <select id="f-earned">
+      <option value="all">All trophies</option>
+      <option value="remaining">Still to earn</option>
+      <option value="earned">Already earned</option>
+    </select>
+  </label>
+  <span class="toolbar-count" id="toolbar-count"></span>
+</div>
+
+<div class="settings-bar">
+  <label class="spoiler-toggle"><input id="spoiler-toggle" type="checkbox" checked>
+    <span><strong>Hide story spoilers</strong> — story trophy names and descriptions stay hidden until you earn them</span>
+  </label>
+  <span class="settings-actions">
+    <button id="export-btn" type="button">Export progress</button>
+    <label class="import-btn">Import progress <input id="import-file" type="file" accept="application/json,.json"></label>
+    <button id="reset-btn" type="button">Reset all</button>
+  </span>
+</div>
+
+<main class="layout">
+  <section class="view" id="view" aria-live="polite"></section>
+  <aside class="detail" id="detail" aria-label="Trophy guide detail"></aside>
+</main>
+
+<footer>
+  <p>Unofficial fan guide, not affiliated with Rockstar Games, Sony or PlayStation. Trophy names and descriptions are shown as PlayStation publishes them (via Exophase and PSNProfiles). Every guide is written in our own words; where a method is not yet confirmed in a published guide, the guide says so. No Rockstar logo or official artwork is used. Your progress never leaves your browser — it is stored in localStorage, and export/import is a file you control.</p>
+  <p>List checked 20 Nov 2026 &middot; 55 trophies &middot; 28 hidden on PSN &middot; no online trophies &middot; one playthrough is enough &middot; platinum estimate about 200–300 hours.</p>
+</footer>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,401 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "counts": { "total": 55, "platinum": 1, "gold": 2, "silver": 6, "bronze": 46, "hidden": 28 },
+ "note": "Names, descriptions and grades are as PlayStation publishes them, via Exophase and PSNProfiles (checked 20 Nov 2026). Every guide below is written in our own words for this guide. A guide marked confirmed draws on a published guide or follows directly from the official description; one marked unconfirmed says so plainly, because no published guide had a verified method when we checked.",
+ "sources": {
+  "EXO": { "label": "Exophase — Grand Theft Auto VI trophies (official names, descriptions, grades)", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/" },
+  "PSN": { "label": "PSNProfiles — Grand Theft Auto VI trophies (grades and PSN progress targets)", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi" },
+  "PSQ": { "label": "Push Square — GTA 6 Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap" },
+  "KG": { "label": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap: All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/" },
+  "FS": { "label": "FullSweep — GTA 6 Trophy List", "url": "https://fullsweepmap.com/wiki/gta6-trophies/" }
+ },
+ "trophies": [
+  {
+   "id": 1, "name": "Vice Got a Price!", "description": "Congratulations! You're a Leonida Legend.", "grade": "platinum",
+   "kind": "completion", "missable": false, "difficulty": 5, "stage": 7, "confirmed": true,
+   "guide": "This is the platinum: it unlocks automatically the moment the other 54 trophies are all earned, and there is no separate task behind it. Because one of those 54 is A Long Road for 100% completion, the platinum is really a full-completion run — PowerPyx estimates about 200 hours and Push Square 300 or more. Follow this guide's roadmap in order and the platinum will pop on its own when the last checklist item is done.",
+   "steps": ["Play the story to the end", "Clear the strangers, activities, crime and collectible stages", "Reach 100% completion for A Long Road", "The platinum unlocks with the final trophy"],
+   "src": ["EXO", "PSN", "KG"]
+  },
+  {
+   "id": 2, "name": "Just Like Paradise", "description": "Complete Gone Fishing.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete Gone Fishing, the opening mission, and this pops at the end of it — it is the first trophy most players will earn and it cannot be missed. Just play the story from the start; there is nothing to prepare and no choice to get wrong.",
+   "steps": ["Start a new game", "Play through Gone Fishing to its end"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 3, "name": "Paradise Lost", "description": "Complete Chapter 1.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Finish Chapter 1 and this pops when the chapter's final mission ends. It is a story trophy, so it cannot be missed — keep playing the main missions and it arrives on its own.",
+   "steps": ["Play the Chapter 1 story missions in order", "Finish the chapter's final mission"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 4, "name": "T**s Ass Drug Money", "description": "Complete Chapter 2.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Finish Chapter 2 and this pops when the chapter's final mission ends. Like every chapter trophy it is unmissable — it is a milestone for playing the story, not a challenge to prepare for.",
+   "steps": ["Play the Chapter 2 story missions in order", "Finish the chapter's final mission"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 5, "name": "Vice City, Baby!", "description": "Complete Chapter 3.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Finish Chapter 3 and this pops when the chapter's final mission ends. Unmissable, like the other chapter trophies — just keep working through the main missions.",
+   "steps": ["Play the Chapter 3 story missions in order", "Finish the chapter's final mission"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 6, "name": "Top Of The World, Ma", "description": "Complete Chapter 4.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Finish Chapter 4 and this pops when the chapter's final mission ends. It marks the back stretch of the story — after it, only the final mission stands between you and the gold story trophy.",
+   "steps": ["Play the Chapter 4 story missions in order", "Finish the chapter's final mission"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 7, "name": "You Gotta Know When to Get Off", "description": "Complete the final mission.", "grade": "gold",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete the final mission and this gold trophy pops at the end of the story. After it, free roam continues and the 100% completion checklist opens (Push Square), so this is the doorway to the whole cleanup phase — nothing is locked away once the credits roll.",
+   "steps": ["Finish Chapters 1 to 4", "Complete the final mission"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 8, "name": "Trust", "description": "Complete Breakfast Run.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete the story mission Breakfast Run. It is a named-mission trophy, so it pops the moment that mission ends — unmissable, and a sign you are on the story path rather than wandering Leonida.",
+   "steps": ["Play the story until Breakfast Run appears", "Complete Breakfast Run"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 9, "name": "Break the Bank", "description": "Complete The Cartel Heist.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete the story mission The Cartel Heist. It is one of the big set-piece heists of the campaign, and the trophy pops when the mission ends — no preparation needed, just play the story to it.",
+   "steps": ["Play the story until The Cartel Heist appears", "Complete The Cartel Heist"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 10, "name": "Family Matters", "description": "Complete Child's Play.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete the story mission Child's Play. A named-mission trophy that pops when the mission ends — unmissable, and one of the story beats you will reach naturally on the way through the chapters.",
+   "steps": ["Play the story until Child's Play appears", "Complete Child's Play"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 11, "name": "DWNFALL", "description": "Complete Headliners.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete the story mission Headliners. It pops the moment the mission ends — a story milestone, unmissable, and worth enjoying rather than rushing, since the mission itself is the point.",
+   "steps": ["Play the story until Headliners appears", "Complete Headliners"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 12, "name": "Hi-Jacked", "description": "Complete VCIA Takedown.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete the story mission VCIA Takedown, set at Vice City International Airport. It pops when the mission ends — unmissable, and a good reason to get comfortable with the airport, since the Catch Me If You Can trophy sends you back there later.",
+   "steps": ["Play the story until VCIA Takedown appears", "Complete VCIA Takedown"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 13, "name": "Snow Storm", "description": "Complete Operation Savage Glory.", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": true,
+   "guide": "Complete the story mission Operation Savage Glory. The last of the named-mission story trophies — it pops when the mission ends, unmissable, and it usually lands late in the campaign, close to the finale.",
+   "steps": ["Play the story until Operation Savage Glory appears", "Complete Operation Savage Glory"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 14, "name": "A Long Road", "description": "Attain 100% Completion.", "grade": "gold",
+   "kind": "completion", "missable": false, "difficulty": 5, "stage": 7, "confirmed": true,
+   "guide": "Attain 100% completion. The checklist opens after the story (Touch Pad, then Progress, then 100% Completion, per Push Square) and covers story missions, robberies, gang operations, collectibles, races, stunts, challenges and discoveries — but not literally everything: only 15 of the 18 collectible card sets count, and 70 of the 80 challenges. Treat the in-game checklist as the authority, not your trophy count. This is the last trophy for most players and the reason the platinum takes 200 hours or more.",
+   "steps": ["Finish the story to open the 100% checklist", "Work the checklist category by category", "Watch the in-game percentage, not your trophy count"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 15, "name": "Cunning Stunts", "description": "Complete 250 Stunts.", "grade": "silver",
+   "kind": "activity", "missable": false, "difficulty": 4, "stage": 4, "target": 250, "confirmed": true,
+   "guide": "Complete 250 stunts. Stunts are Stunt Jumps (130 in the game), Under the Bridges (202), Knife Flights (40) and Base Jumps (25) — 397 in total, so you need just over half (Push Square). Mix types freely; find them on the map via Touch Pad, Exploration, Stunt Spots, and track progress at Touch Pad, Progress, Activities, Stunts. Start early and grab them as you travel — they are a long grind if left to the end.",
+   "steps": ["Open Touch Pad, Exploration, Stunt Spots to see stunt locations", "Complete any mix of jumps, bridge flights, knife flights and base jumps", "Track the count at Touch Pad, Progress, Activities, Stunts"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 16, "name": "Master of None", "description": "Try each type of activity once.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 1, "stage": 4, "confirmed": true,
+   "guide": "Try each type of activity once. There are nine activity types in the game, and this pops the first time you have tried each one once — you do not need to win or finish anything, just take part. The fastest route is to sample them during the story: a race, a fishing trip, a shooting range session, a drone race, an arcade game, a bowling game and a stunt will cover most of them. Track what you have tried under Touch Pad, Progress, Activities.",
+   "steps": ["Try a race, a fishing spot, a shooting range and a drone race", "Try an arcade game, a bowling alley and a stunt", "The trophy pops when the ninth type is sampled"],
+   "src": ["EXO", "PSN", "KG"]
+  },
+  {
+   "id": 17, "name": "The Shootist", "description": "Earn a gold medal in all Shooting Range challenges.", "grade": "silver",
+   "kind": "activity", "missable": false, "difficulty": 4, "stage": 4, "target": 42, "confirmed": true,
+   "guide": "Earn a gold medal in all Shooting Range challenges — 42 of them across two ranges: Rodgers Ranch & Shooting Range in Port Gellhorn and Griffin Shooting Range in Balsero (Push Square). Most challenges have three difficulty tiers and some are locked until you meet their conditions, shown on the map. Find ranges via Touch Pad, Activities, Shooting Ranges and track progress there. Take it slowly: gold medals need accuracy and speed, and the harder tiers are the real test of this trophy.",
+   "steps": ["Visit Rodgers Ranch (Port Gellhorn) and Griffin (Balsero)", "Work through each challenge's tiers to gold", "Check locked challenges' conditions on the map"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 18, "name": "Top Fun", "description": "Win a Top Fun Drone Race at every location.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 2, "stage": 4, "target": 14, "confirmed": true,
+   "guide": "Win a Top Fun Drone Race at every location — 14 of them, some with entry fees (Push Square). Find them at Touch Pad, Activities, Drones, Top Fun Drones. You only need first place once per location; learn each course's corners rather than brute-forcing speed.",
+   "steps": ["Open Touch Pad, Activities, Drones, Top Fun Drones", "Win one race at each of the 14 locations"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 19, "name": "Earn Cash, Not Kudos", "description": "Win 20 different races.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 2, "stage": 4, "target": 20, "confirmed": true,
+   "guide": "Win 20 different races. Replaying the same race does not count — each of the 20 must be a different race (Push Square). Find them at Touch Pad, Activities, Racing; most locations let you hire a car, and your own car's Rating can be raised with Mod Shop upgrades. Work through the list and tick them off as you go.",
+   "steps": ["Open Touch Pad, Activities, Racing for the race list", "Win 20 different races, using hired cars where offered"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 20, "name": "Baited My Tackle", "description": "Beat Cal in a fishing challenge.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 2, "stage": 4, "confirmed": true,
+   "guide": "Beat Cal in a fishing challenge. Early in the game Cal asks you to catch a Parrotfish over 2kg (Push Square): fish in the marked area from a boat with a fishing rod until you land one big enough — hijack a boat in the area if you do not own one. The weight is the whole challenge; keep fishing in the marked spot until a 2kg-plus Parrotfish bites.",
+   "steps": ["Take Cal's request to catch a Parrotfish over 2kg", "Get a boat with a fishing rod and fish the marked area", "Land a Parrotfish over 2kg"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 21, "name": "Stick Fiddler", "description": "Complete an arcade game.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 1, "stage": 4, "confirmed": true,
+   "guide": "Complete an arcade game. Find an arcade machine — arcades are scattered around Vice City — start any game and play it to its end. You do not need a high score, just a finished game.",
+   "steps": ["Find an arcade machine", "Play any game through to its end"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 22, "name": "Road to Rehabilitation", "description": "Complete the final mission for Andy.", "grade": "bronze",
+   "kind": "stranger", "missable": false, "difficulty": 2, "stage": 3, "confirmed": true,
+   "guide": "Complete the final mission for Andy. Andy's strand is a chain of missions; keep answering his calls and playing his jobs until the strand ends — the trophy pops at the final one, Puff Puff Pass (KeenGamer). Stranger strands unlock as the story progresses, so if Andy goes quiet, play more story first.",
+   "steps": ["Play Andy's missions as they appear", "Finish the strand's final mission, Puff Puff Pass"],
+   "src": ["EXO", "PSN", "KG"]
+  },
+  {
+   "id": 23, "name": "This Was No Boat Accident", "description": "Complete the final mission for Kenton.", "grade": "bronze",
+   "kind": "stranger", "missable": false, "difficulty": 2, "stage": 3, "confirmed": true,
+   "guide": "Complete the final mission for Kenton — the mission Maritime Disputes (Push Square). Play Kenton's strand through to the end; as with the other stranger characters, later missions unlock as the story advances.",
+   "steps": ["Play Kenton's missions as they appear", "Finish Maritime Disputes"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 24, "name": "The Lone Rider", "description": "Complete the final mission for Billy.", "grade": "bronze",
+   "kind": "stranger", "missable": false, "difficulty": 2, "stage": 3, "confirmed": true,
+   "guide": "Complete the final mission for Billy — the mission Hometown Heroes (Push Square). Same pattern as the other stranger strands: keep playing Billy's jobs until the strand closes.",
+   "steps": ["Play Billy's missions as they appear", "Finish Hometown Heroes"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 25, "name": "Strangers & Freaks", "description": "Complete 8 mission strands for strangers across the state of Leonida.", "grade": "silver",
+   "kind": "stranger", "missable": false, "difficulty": 3, "stage": 3, "target": 8, "confirmed": true,
+   "guide": "Complete 8 mission strands for strangers across the state of Leonida. There are more strands than you need (PowerPyx counts 14, via FullSweep), so pick the eight you enjoy and finish each strand to its final mission. Stranger missions appear on the map as question marks and as phone calls; the five named characters (Andy, Kenton, Billy, Randy, Tyrone) count toward the eight, so their trophies and this one progress together.",
+   "steps": ["Find stranger missions on the map and by phone", "Finish 8 full strands, including the five named characters"],
+   "src": ["EXO", "PSN", "FS"]
+  },
+  {
+   "id": 26, "name": "Supply & Demand", "description": "Complete the final mission for Randy.", "grade": "bronze",
+   "kind": "stranger", "missable": false, "difficulty": 2, "stage": 3, "confirmed": true,
+   "guide": "Complete the final mission for Randy. Randy's strand involves his wish-list vehicles — Push Square links a list of the vehicle locations — so expect to hunt down specific cars as well as play his missions. Finish the strand's last mission to pop it.",
+   "steps": ["Play Randy's missions and collect his wish-list vehicles", "Finish the strand's final mission"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 27, "name": "Spin On This!", "description": "Complete the final mission for Tyrone.", "grade": "bronze",
+   "kind": "stranger", "missable": false, "difficulty": 2, "stage": 3, "confirmed": true,
+   "guide": "Complete the final mission for Tyrone. Tyrone's strand is tied to the Kitty Litter Lab locations (Push Square) — find the labs as you work through his missions, then finish the strand's final mission.",
+   "steps": ["Play Tyrone's missions and visit the Kitty Litter Labs", "Finish the strand's final mission"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 28, "name": "Positive Mental Attitude", "description": "Meditate at every spot across Leonida.", "grade": "bronze",
+   "kind": "exploration", "missable": true, "difficulty": 2, "stage": 2, "target": 18, "confirmed": true,
+   "guide": "Meditate at every spot across Leonida — 18 meditation spots (Push Square, GTABase). This is the one trophy other guides flag as possibly missable: one spot is at Jason's house and can only be used early in the story, in Chapter 1 (PowerPyx, via FullSweep), so meditate there the first chance you get. A meditation only counts once the final zen animation has played. Track progress at Touch Pad, Progress, Collections, Exploration, Meditations, and find spots at Touch Pad, Exploration, Meditate Around Leonida.",
+   "steps": ["In Chapter 1, meditate at Jason's house at the first opportunity", "Meditate at all 18 spots, waiting for the zen animation each time", "Track progress at Touch Pad, Progress, Collections, Exploration, Meditations"],
+   "src": ["EXO", "PSN", "PSQ", "FS"]
+  },
+  {
+   "id": 29, "name": "Fair Game", "description": "Hunt a unique animal for Bret.", "grade": "bronze",
+   "kind": "stranger", "missable": false, "difficulty": 2, "stage": 3, "confirmed": true,
+   "guide": "Hunt a unique animal for Bret. Bret's strand is about hunting: unique animals are one-off hunts, not regular wildlife, so follow Bret's missions and the hunt prompts they give. Finish the hunt he sets you and the trophy pops.",
+   "steps": ["Play Bret's strand as it appears", "Complete the unique-animal hunt he sets"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 30, "name": "Don't Touch My Deck", "description": "Complete 3 Collectible Card sets.", "grade": "silver",
+   "kind": "collectible", "missable": false, "difficulty": 3, "stage": 6, "target": 3, "confirmed": true,
+   "guide": "Complete 3 Collectible Card sets. There are 18 card sets in the game (Push Square), and you only need three complete sets for this trophy — but if you are going for 100%, you will need 15, so treat this as an early milestone on the way there. Track cards at Touch Pad, Progress, Collections, Collectible Cards; collected cards can be sold at Pawn Shops and still count.",
+   "steps": ["Collect cards across Leonida", "Complete any 3 full sets"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 31, "name": "You WAiNKer!", "description": "WAiNK It at 100 locations.", "grade": "silver",
+   "kind": "collectible", "missable": false, "difficulty": 3, "stage": 6, "target": 100, "confirmed": true,
+   "guide": "WAiNK It at 100 locations. WAiNK is an app on Jason or Lucia's phone (hold Up to open it) that scans landmarks for extra information (Push Square). Scannable spots include 31 landmarks, 35 curiosities and 23 sculptures, plus No Flusher tags — you need 100 successful scans in total. Scan as you explore and track progress at Touch Pad, Progress, Collections, WAiNK Locations.",
+   "steps": ["Open the WAiNK app on your phone (hold Up)", "Scan landmarks, curiosities, sculptures and No Flusher tags", "Reach 100 scans"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 32, "name": "One Last Thing", "description": "Complete 50 Challenges.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 3, "stage": 4, "target": 50, "confirmed": true,
+   "guide": "Complete 50 Challenges. Challenges are the game's in-world feats (Push Square): 80 in total, 50 for this trophy and 70 for 100% completion. Browse them at Touch Pad, Progress, Challenges and pick off the easy ones first — many complete naturally during the story and the other grinds.",
+   "steps": ["Open Touch Pad, Progress, Challenges", "Complete any 50 challenges"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 33, "name": "Hot Together", "description": "Lose a 4 star Wanted Level with your partner and escape the heat.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 2, "stage": 5, "target": 4, "confirmed": true,
+   "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. Build your wanted level to 4 stars while your partner (Jason or Lucia) is with you, then break line of sight and stay hidden until the stars clear — the trophy pops when you escape, not when the stars appear. Use the map's wanted radius: get outside the search area and keep moving until it fades.",
+   "steps": ["Have your partner with you", "Raise a 4-star wanted level", "Escape the search area until the wanted level clears"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 34, "name": "Retail Therapy", "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 2, "stage": 5, "target": 3, "confirmed": true,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Rob a shop with your partner alongside, then move straight to the next shop and the next — the chain breaks if your wanted level drops between robberies, so keep the heat on and do not stop to fight the police. Pick three shops close together and plan the route first.",
+   "steps": ["Bring your partner", "Rob a shop, then immediately rob two more", "Keep your wanted level alive through all three"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 35, "name": "Whip It Good", "description": "Discover 100 vehicles.", "grade": "bronze",
+   "kind": "exploration", "missable": false, "difficulty": 1, "stage": 6, "target": 100, "confirmed": true,
+   "guide": "Discover 100 vehicles. A vehicle counts as discovered when you get inside it or scan it (Push Square), and 100 different vehicles should come naturally during the story. Track the list at Touch Pad, Progress, Vehicles; if you are short at the end, drive through car parks and dealership rows trying new models.",
+   "steps": ["Get in or scan vehicles as you play", "Reach 100 different vehicles"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 36, "name": "Gunslinger", "description": "Take down 5 enemies in a single use of Combat Focus.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 2, "stage": 5, "target": 5, "confirmed": true,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the game's slow-down aiming mode: trigger it in a firefight with several enemies in view and drop five before it ends. Pick a busy fight with grouped enemies — a gang shootout or a police chase — and save it for a moment when five targets are close together.",
+   "steps": ["Enter a firefight with several enemies close together", "Trigger Combat Focus and take down 5 enemies before it ends"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 37, "name": "Catch Me If You Can", "description": "Make an unscheduled departure at VCIA.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 1, "stage": 5, "confirmed": false,
+   "guide": "Make an unscheduled departure at VCIA. VCIA is Vice City International Airport: the plain reading is to get to the airport and leave by an unscheduled route — steal a plane and take off without following the normal departure flow. No published guide had pinned down a verified method as of 20 Nov 2026, so treat this as our reading of the official description and check the linked sources for an update before grinding it.",
+   "steps": ["Go to Vice City International Airport", "Take a plane and depart without a scheduled flight"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 38, "name": "Challenging Tank", "description": "Kinda hot in these Rhinos.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 2, "stage": 5, "confirmed": false,
+   "guide": "Kinda hot in these Rhinos. The Rhino is GTA's tank: the plain reading is to get into one and survive the heat it brings. Rhinos appear at military areas and at high wanted levels, so expect a fight to get one — and no published guide had pinned down a verified method as of 20 Nov 2026, so check the linked sources for an update.",
+   "steps": ["Find a Rhino tank", "Drive it and survive the attention it draws"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 39, "name": "Sneakthief", "description": "Rob a jewelry store without being detected.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 2, "stage": 5, "confirmed": true,
+   "guide": "Rob a jewelry store without being detected. Case the store first, go in quiet — no alarms, no witnesses raising the alarm — and get out clean. If you are spotted, leave and try again; the trophy needs a fully undetected robbery.",
+   "steps": ["Pick a jewelry store", "Rob it without being detected"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 40, "name": "Maximum Withdrawal", "description": "Rob 5 Bank Vaults and escape.", "grade": "silver",
+   "kind": "crime", "missable": false, "difficulty": 3, "stage": 5, "target": 5, "confirmed": true,
+   "guide": "Rob 5 Bank Vaults and escape. Bank vault robberies are bigger jobs than shop robberies: plan the getaway before you go in, and count only the ones where you escape afterwards. Five successful vault jobs, each ending with a clean escape, earn the silver.",
+   "steps": ["Rob a bank vault", "Escape cleanly", "Repeat for 5 vaults"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 41, "name": "A Classic Blitz Play", "description": "Rob an Armored Truck and escape.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 2, "stage": 5, "confirmed": true,
+   "guide": "Rob an Armored Truck and escape. Armored trucks patrol the roads: hit one, grab the cash and get away before the police box you in. A fast getaway car parked nearby makes the escape much easier.",
+   "steps": ["Find an armored truck on the road", "Rob it and escape"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 42, "name": "The Goodtime State", "description": "Explore all of Leonida.", "grade": "bronze",
+   "kind": "exploration", "missable": false, "difficulty": 2, "stage": 6, "confirmed": true,
+   "guide": "Explore all of Leonida. The trophy is about coverage: visit every region of the state — Vice City, the beaches, the swamps, the Keys and the countryside — until the map is filled in. Drive the highways and back roads; the in-game map shows what you have and have not seen.",
+   "steps": ["Travel through every region of Leonida", "Fill in the map until nothing is left unexplored"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 43, "name": "Pest Control", "description": "Rob an Illegal Operation belonging to each gang.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 3, "stage": 5, "confirmed": true,
+   "guide": "Rob an Illegal Operation belonging to each gang. Every gang in Leonida runs illegal operations; hit one operation for each gang. Gang territory is marked on the map, and operations are the gang-run businesses and fronts you can raid.",
+   "steps": ["Find each gang's illegal operations", "Rob one operation for every gang"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 44, "name": "In The Beginning…", "description": "Enjoy a cocktail with a view on Ocean Beach.", "grade": "bronze",
+   "kind": "exploration", "missable": false, "difficulty": 1, "stage": 6, "confirmed": true,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. Go to Ocean Beach, find a bar or beach spot with a view, and order a cocktail — the trophy is a quiet moment, not a mission. Any beachfront bar on Ocean Beach should do.",
+   "steps": ["Go to Ocean Beach", "Order a cocktail with a view"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 45, "name": "Capital Offense", "description": "Smash your way out of a vehicle showroom in classic style.", "grade": "bronze",
+   "kind": "crime", "missable": false, "difficulty": 1, "stage": 5, "confirmed": false,
+   "guide": "Smash your way out of a vehicle showroom in classic style. The plain reading is a nod to the classic GTA showroom smash: drive a car through a dealership showroom's glass and out the other side. The method is not pinned down in any published guide yet, so treat this as our reading of the official description and check the linked sources for an update.",
+   "steps": ["Find a vehicle showroom", "Drive through it and out the front"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 46, "name": "Let’s Go Bowling", "description": "Follow-through at the Kolt & Associates' bowling alley.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 1, "stage": 4, "confirmed": true,
+   "guide": "Follow-through at the Kolt & Associates' bowling alley. Go to the Kolt & Associates bowling alley and bowl a game — follow through on the throw, as the description says. A completed game at that alley is all it takes.",
+   "steps": ["Go to the Kolt & Associates bowling alley", "Bowl a game"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 47, "name": "Personal Best", "description": "A partnership with mass appeal.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 2, "stage": 6, "confirmed": false,
+   "guide": "A partnership with mass appeal. The description is deliberately vague and no published guide had a verified method as of 20 Nov 2026 — the plain reading is a partner activity done to a high standard, most likely tied to doing something with your partner that draws a crowd. Check the sources linked here for updates before grinding it.",
+   "steps": ["No verified method yet — see the sources for updates"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 48, "name": "Actions Speak Louder", "description": "Choices made (for better or worse).", "grade": "bronze",
+   "kind": "story", "missable": false, "difficulty": 1, "stage": 1, "confirmed": false,
+   "guide": "Choices made (for better or worse). This reads as a story trophy tied to a decision in the campaign — the description is the game's way of saying a choice you made mattered. Play the story and it should pop when the choice's consequences land; there is no separate task and nothing to prepare. No published guide had confirmed the exact moment as of 20 Nov 2026.",
+   "steps": ["Play through the story", "The trophy pops when a story choice resolves"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 49, "name": "Bad Luck, I Guess", "description": "Second time's the charm.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 2, "stage": 6, "confirmed": false,
+   "guide": "Second time's the charm. No published guide had a verified method as of 20 Nov 2026 — the name suggests succeeding on a second attempt at something that failed the first time. The honest advice: if a challenge or attempt fails once, try it again immediately rather than moving on.",
+   "steps": ["No verified method yet — see the sources for updates"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 50, "name": "The Truth Is Out There", "description": "What the hell just happened?", "grade": "bronze",
+   "kind": "exploration", "missable": false, "difficulty": 2, "stage": 6, "confirmed": false,
+   "guide": "What the hell just happened? No published guide had a verified method as of 20 Nov 2026 — the name and description point at an easter egg or strange encounter somewhere in Leonida (the classic GTA UFO-style secret). Keep an eye on the linked guides for a confirmed location; do not grind for it blind.",
+   "steps": ["No verified method yet — see the sources for updates"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 51, "name": "Ten Pin", "description": "Bowl 'em over with a melee drive-by.", "grade": "bronze",
+   "kind": "activity", "missable": false, "difficulty": 2, "stage": 4, "confirmed": false,
+   "guide": "Bowl 'em over with a melee drive-by. This is a bowling-alley stunt with a weapon: perform a melee drive-by — attack from a moving vehicle with a melee weapon — and knock the pins (or bowlers) over. The exact spot is not confirmed in a published guide yet; the bowling alley from Let's Go Bowling is the obvious place to try it.",
+   "steps": ["Get a melee weapon and a vehicle", "Perform a melee drive-by at the bowling alley"],
+   "src": ["EXO", "PSN"]
+  },
+  {
+   "id": 52, "name": "Dime on the Dollar", "description": "Earn $250,000 laundering Marked Bills through your contacts.", "grade": "bronze",
+   "kind": "money", "missable": false, "difficulty": 2, "stage": 6, "target": 250000, "confirmed": true,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills are dirty money from robberies; launder them through your contacts a little at a time until the total hits $250,000. It adds up across the whole game, so keep laundering after every big score rather than letting bills pile up.",
+   "steps": ["Earn Marked Bills from robberies", "Launder them through your contacts", "Reach $250,000 laundered in total"],
+   "src": ["EXO", "PSN", "KG"]
+  },
+  {
+   "id": 53, "name": "Treat Yo Self", "description": "Spend $100,000 across all shops.", "grade": "bronze",
+   "kind": "money", "missable": false, "difficulty": 1, "stage": 6, "target": 100000, "confirmed": true,
+   "guide": "Spend $100,000 across all shops. Any shop spending counts and it accumulates over the whole game (Push Square) — clothes, weapons, food, car upgrades, all of it. Find shops on the map via Touch Pad, Style. You will likely hit this naturally while buying the garages and gear for other trophies.",
+   "steps": ["Spend money at any shops", "Reach $100,000 total spent"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 54, "name": "Little Boxes", "description": "Purchase all garage properties.", "grade": "bronze",
+   "kind": "money", "missable": false, "difficulty": 2, "stage": 6, "target": 8, "confirmed": true,
+   "guide": "Purchase all garage properties — 8 garages, $160,000 in total (Push Square): Mitchel Auto Center $4,000; 7th Avenue Garage $12,000; Vela Rota Drive Garage $24,000; Persistence Road Garage $7,600; Wyatt Motors $21,600; Bonita Court Garage $34,000; Atlantic Court Garage $40,000; Store n' Bolt $16,800. Buy them from the Vice City Real Estate app on your phone (press Up). Each garage adds one parking spot, which also helps On the Spot.",
+   "steps": ["Open the Vice City Real Estate app on your phone", "Buy all 8 garages ($160,000 total)"],
+   "src": ["EXO", "PSN", "PSQ"]
+  },
+  {
+   "id": 55, "name": "On the Spot", "description": "Register 10 vehicles to the Scooter Bros app.", "grade": "bronze",
+   "kind": "money", "missable": false, "difficulty": 1, "stage": 6, "target": 10, "confirmed": true,
+   "guide": "Register 10 vehicles to the Scooter Bros app. Drive a vehicle to a Pay 'N' Spray or Mod Shop and register it there (Push Square) — registered vehicles can then be delivered to you by Scooter Bros for a small fee. Register 10 different vehicles; buying the garages from Little Boxes gives you the parking spots to hold them.",
+   "steps": ["Drive a vehicle to a Pay 'N' Spray or Mod Shop", "Register it to Scooter Bros", "Repeat for 10 different vehicles"],
+   "src": ["EXO", "PSN", "PSQ"]
+  }
+ ]
+}
